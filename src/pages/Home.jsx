@@ -13,6 +13,7 @@ function Home() {
     {"id": 6, "name": "ZEBRONICS Zeb-Thunder Wired", "price": 29, "image": "/assets/images/1006.png"}
   ]
 
+
   return (
     <main>
       <section className="products">
